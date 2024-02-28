@@ -1,1 +1,1 @@
-# data-analysis-practice
+This is a folder to practice exercises in Phyton and data analysis.
